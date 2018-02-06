@@ -27,3 +27,30 @@
 ### Contact Chris or Byron with any questions.
 
 ##### Copywrite MIT 2016.
+
+### NPM and GULP
+- /Root Folder
+- npm init
+- npm install gulp --save-dev
+- npm install vinyl-source-stream --save-dev
+- npm install gulp-concat --save-dev
+- npm install gulp-uglify --save-dev
+- npm install gulp-util --save-dev
+- npm install del --save-dev
+- npm install jshint --save-dev
+- npm install gulp-jshint --save-dev
+- bower init
+- bower install
+- npm install bower-files --save-dev
+- npm install browser-sync --save-dev
+- npm install jasmine --save-dev
+- ./node_modules/.bin/jasmine init
+- npm install watchify --save-dev
+- npm install karma --save-dev
+- npm install karma-jasmine jasmine-core --save-dev
+- npm install karma-chrome-launcher --save-dev
+- npm install karma-cli --save-dev
+- npm install karma-browserify --save-dev
+- npm install karma-jquery --save-dev
+- npm install karma-jasmine-html-reporter --save-dev
+- npm install babelify babel-core babel-preset-es2015 --save-dev

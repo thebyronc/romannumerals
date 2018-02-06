@@ -1,0 +1,18 @@
+{
+  "name": "romannumerals",
+  "description": "##### By Chris Huson and Byron Chang",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/thebyronc/romannumerals",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.0.0"
+  }
+}
